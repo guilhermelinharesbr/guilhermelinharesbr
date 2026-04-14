@@ -1,11 +1,13 @@
-## Hi there 👋
+## Olá, me chamo Guilherme Linhares, trabalho na área de Infraestrutura de T.I.
+
+- 🔭 Atualmente trabalho com Servidores Linux, MySQL, PostgreSQL, Docker, Servidores Windows, SQL Server, OTRS/Znuny
+- 🌱 Estou aprendendo sobre Git, GitHub, GitLab
+- 💬 Gosto de conversar sobre Linux
 
 <!--
 **guilhermelinharesbr/guilhermelinharesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Linux Servers,  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
