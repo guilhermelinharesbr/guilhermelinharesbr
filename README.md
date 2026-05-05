@@ -1,7 +1,7 @@
 ## Olá, me chamo Guilherme Linhares, trabalho na área de Infraestrutura de T.I.
 
 - 🔭 Atualmente trabalho com Servidores Linux, MySQL, PostgreSQL, Docker, Servidores Windows, SQL Server, OTRS/Znuny
-- 🌱 Estou aprendendo sobre Git, GitHub, GitLab
+- 🌱 Estou aprendendo sobre Git, GitHub, GitLab, IA
 - 💬 Gosto de conversar sobre Linux
 
 
