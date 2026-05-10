@@ -13,7 +13,7 @@
 
 ---
 
-<!a--
+<!--
 
 Começo do comentário
 ## 📊 GitHub Stats
@@ -24,4 +24,4 @@ Começo do comentário
 </p>
 Fim do comentário
 
--a->
+-->
