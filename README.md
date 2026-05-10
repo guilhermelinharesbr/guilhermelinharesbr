@@ -13,7 +13,8 @@
 
 ---
 
-<!--
+<!a--
+
 Começo do comentário
 ## 📊 GitHub Stats
 
@@ -22,4 +23,5 @@ Começo do comentário
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinharesbr&layout=compact&theme=tokyonight" />
 </p>
 Fim do comentário
--->
+
+-a->
