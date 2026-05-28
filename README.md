@@ -26,6 +26,5 @@ Fim do comentário  -->
 ## 📊 GitHub Stats
 <p align="left">
   <img height="170" src="https://streak-stats.demolab.com?user=guilhermelinharesbr&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinharesbr&layout=compact&theme=tokyonight" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermelinharesbr&theme=tokyonight" />
 </p>
